@@ -1,27 +1,55 @@
-<h1 align="center">Hi 👋, I'm Bryan Salva Torres. I'm from Perú</h1>
-<h3 align="center">A passionate for data science </h3>
+<h1 align="center">Hi, I'm Bryan Salva Torres</h1>
+<h3 align="center">Data Scientist · Machine Learning & AI  · Lima, Perú 🇵🇪</h3>
 
-- 🔭 I’m currently working on [Data Science](https://www.transmin.com)
-
-- 🌱 I’m currently learning **Machine Learning, Data Mining, AI**
-
-- 👨‍💻 All of my projects are available at [https://github.com/torresbryansalva?tab=repositories](https://github.com/torresbryansalva?tab=repositories)
-
-- 💬 Ask me about ** Python, Pandas, Scikit-learn**
-
-- 📫 How to reach me **salvatorresb@gmail.com**
-
-- ⚡ Fun fact **I think i am funny, friendly. I like InkaCola and you?**
--------------------------------------------------------------------------------------------------------------------------------------------------------------
-- ⚡ DIVIERTETE JUGANDO CON MI PAGINA - NO TE ARREPENTIRAS[https://torresbryansalva.github.io/Encriptacion_Desencriptacion/](https://torresbryansalva.github.io/Encriptacion_Desencriptacion/)
--------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bryansalvatorres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bryansalvatorres" height="30" width="40" /></a>
-<a href="https://kaggle.com/bryansalva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bryansalva" height="30" width="40" /></a>
-<a href="https://instagram.com/brian.salva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brian.salva" height="30" width="40" /></a>
+<p align="center">
+  2+ years building ML solutions for mining & geometallurgy.<br>
+  Now expanding into Deep Learning and Computer Vision (AI studies at Universidad Nacional de Ingeniería).
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+##  About me
+
+I'm a data scientist with 2+ years of professional experience in **geometallurgy**, turning noisy process and sample data into decisions that improve metal recovery. Alongside my job, I'm studying Artificial Intelligence at **Universidad Nacional de Ingeniería (UNI)** and applying deep learning to real problems in health and geospatial imagery.
+
+##  What I do at work (Geometallurgy · Data Science)
+
+- 🌲 **Tree-based models** (Random Forest and ensembles) to model metallurgical recovery
+- 📊 **Feature ranking / selection** to identify which variables truly drive recovery
+- 🧩 **Clustering** of recovery samples to find metallurgical domains and behavior groups
+- 🔬 End-to-end workflow: data cleaning → feature engineering → modeling → validation → communicating results to non-technical teams
+
+## 🔭 Featured deep learning projects
+
+| Project | Problem | Approach |
+|---|---|---|
+| 🌊 **Flood detection from satellite imagery** | Map flooded areas from satellite images | U-Net semantic segmentation · [repo](https://github.com/torresbryansalva/unet-inundaciones) |
+
+##  Currently learning & practicing
+
+Neural networks · CNNs · Object detection (YOLO) · GANs · Segmentation architectures (U-Net and variants)
+
+## 🛠️ Tech stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+## 🎮 Something fun
+
+Try my encryption / decryption web app: [Encriptación_Desencriptación](https://torresbryansalva.github.io/Encriptacion_Desencriptacion/)
+
+##  Let's connect
+
+- 📧 salvatorresb@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/bryansalvatorres/) · 🏆 [Facebook](https://www.facebook.com/bryan.salvatorres1) · 📸 [Instagram](https://www.instagram.com/brian.salva/)
+
+<sub>Fun fact: I'm friendly, I like programming, and I like Inca Kola. And you? 🥤</sub>
