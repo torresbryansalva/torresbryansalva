@@ -23,7 +23,8 @@ I'm a data scientist with 2+ years of professional experience in **geometallurgy
 
 | Project | Problem | Approach |
 |---|---|---|
-| 🌊 **Flood detection from satellite imagery** | Map flooded areas from satellite images | U-Net semantic segmentation · [repo](https://github.com/torresbryansalva/unet-inundaciones) |
+| **Flood detection from satellite imagery** | Map flooded areas from satellite images | U-Net semantic segmentation · [repo](https://github.com/torresbryansalva/unet-inundaciones) |
+| **Lesion detection in X-rays** | Locate and segment lesions in radiographs | CNN / U-Net based segmentation ·[repo](https://github.com/torresbryansalva/knee-restNet50-weak)|
 
 ##  Currently learning & practicing
 
